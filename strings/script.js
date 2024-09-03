@@ -1,0 +1,3 @@
+const str = "After a long day of hiking through the rugged mountains, Sarah's legs felt utterly knackered. She could barely drag herself back to the campsite, where she promptly collapsed into her sleeping bag, feeling completely knackered and ready for a good night's rest. The following morning, she woke up feeling refreshed and energized, but her muscles were still a bit knackered from the previous day's exertion"
+
+console.log(str.replaceAll("knackered", "tired"));

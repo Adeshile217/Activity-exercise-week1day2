@@ -16,7 +16,7 @@ function handleGuessButton(event){
 
    
 
-    if (inputNumber == result) {
+    if (inputNumber == result) {git 
         resultParagraph.innerHTML += 'You win!';
       } 
       else {
